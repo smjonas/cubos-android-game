@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 204a7825238d528478645ba1440e5bb5
+timeCreated: 1496070459
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: zwodrei - free
+  fontNames:
+  - zwodrei - free
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

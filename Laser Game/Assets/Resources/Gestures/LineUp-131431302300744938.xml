@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "LineUp">
+	<Stroke>
+		<Point X = "365" Y = "-958" T = "0" Pressure = "0" />
+		<Point X = "365" Y = "-958" T = "0" Pressure = "0" />
+		<Point X = "365" Y = "-961" T = "0" Pressure = "0" />
+		<Point X = "365" Y = "-976" T = "0" Pressure = "0" />
+		<Point X = "365" Y = "-998" T = "0" Pressure = "0" />
+		<Point X = "365" Y = "-1034" T = "0" Pressure = "0" />
+		<Point X = "365" Y = "-1086" T = "0" Pressure = "0" />
+		<Point X = "365" Y = "-1141" T = "0" Pressure = "0" />
+		<Point X = "369" Y = "-1217" T = "0" Pressure = "0" />
+		<Point X = "376" Y = "-1294" T = "0" Pressure = "0" />
+		<Point X = "380" Y = "-1367" T = "0" Pressure = "0" />
+		<Point X = "380" Y = "-1433" T = "0" Pressure = "0" />
+		<Point X = "380" Y = "-1477" T = "0" Pressure = "0" />
+		<Point X = "380" Y = "-1525" T = "0" Pressure = "0" />
+		<Point X = "380" Y = "-1554" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

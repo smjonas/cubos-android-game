@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: d0c6659d4b1ddbf4aab6112e1ae08b9c
+timeCreated: 1500218656
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buttons-arrow
+    21300002: Buttons-BackButton2
+    21300004: Buttons-Button_3
+    21300006: Buttons-CancelButton
+    21300008: Buttons-LevelButton2
+    21300010: Buttons-LevelCompleted
+    21300012: Buttons-Lock
+    21300014: Buttons-restartButton
+    21300016: Powerups-rotate
+    21300018: Powerups-switch
+    21300020: Powerups-switchRow
+    21300022: SocialMedia-instagram
+    21300024: SocialMedia-twitter
+    21300026: Flags-england
+    21300028: Flags-germany
+    21300030: Logo-CubosLogo
+    21300032: Buttons-OptionsButton
+    21300034: cube
+    21300036: Buttons-pauseButton
+    21300038: SocialMedia-domain-registration(1)
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buttons-arrow
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 135
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-BackButton2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1167
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-Button_3
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-CancelButton
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 909
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-LevelButton2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 651
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-LevelCompleted
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 393
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-Lock
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-OptionsButton
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 393
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-pauseButton
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 393
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Buttons-restartButton
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 135
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flags-england
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 773
+        width: 768
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flags-germany
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 762
+        width: 768
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Logo-CubosLogo
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1425
+        width: 304
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Powerups-rotate
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 393
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Powerups-switch
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 135
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Powerups-switchRow
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 515
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SocialMedia-domain-registration(1)
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1535
+        width: 480
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SocialMedia-instagram
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1279
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SocialMedia-twitter
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1268
+        width: 783
+        height: 779
+      alignment: 9
+      pivot: {x: 0.5019157, y: 0.5019255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <languages>
+        <English>
+        	<string name="options">OPTIONS</string>
+        	<string name="sound">Sound</string>
+        	<string name="version">v0.9 beta</string>
+
+			<string name="reset">Reset</string>
+			<string name="resetPrompt">Are you sure you want to reset your progress and start over?</string>
+            <string name="betaInfoButton">Info</string>
+			<string name="betaInfo1">Thank you for participating in the beta! Really means a lot to us!</string>
+			<string name="betaInfo2">If you have any questions or feedback, please feel free to send us an email to info@blueshard-games.com or contact us on our social media sites on twitter or instagram.</string>
+			<string name="language">Language</string>
+			<string name="visitWebsite">Visit our website for news!</string>
+            <string name="codeAndDesign">Code &amp; Design</string>
+
+            <string name="lvlWinningText">COMPLETE!</string>
+            <string name="lvlLosingText">FAILED!</string>
+			<string name="tut1_Endscreen">TUTORIAL COMPLETE!</string>
+
+			<string name="undoText">Press this button to undo your last move!</string>
+			<string name="betaCompleted1">Congratulations! You finished the open beta of Cubos!</string>
+			<string name="betaCompleted2">We hope you enjoyed it. Click on the star to rate the game!</string>
+		</English>
+		
+		<German>
+			<string name="options">OPTIONEN</string>
+			<string name="version">v0.9 beta</string>
+			<string name="sound">Ton</string>
+
+			<string name="reset">Zurücksetzen</string>	
+			<string name="resetPrompt">Bist du sicher, dass du deinen Fortschritt zurücksetzen und von vorne anfangen willst?</string>	
+            <string name="betaInfoButton">Info</string>
+			<string name="betaInfo1">Vielen Dank, dass du an der Beta teilnimmst!</string>
+			<string name="betaInfo2">Falls du Fragen oder Feedback hast, würden wir uns freuen, wenn du uns eine E-Mail an info@blueshard-games.com schreibst oder uns auf unserer Twitter- oder Instagramseite kontaktierst.</string>
+            <string name="language">Sprache</string>
+            <string name="visitWebsite">Besuche uns auf unserer Webseite!</string>
+			<string name="codeAndDesign">Code &amp; Design</string>
+
+			<string name="lvlWinningText">GESCHAFFT!</string>
+            <string name="lvlLosingText">NICHT GESCHAFFT!</string>
+			<string name="tut1_Endscreen">TUTORIAL ABGESCHLOSSSEN!</string>
+
+			<string name="undoText">Klicke hier, um deinen letzten Zug rück-gängig zu machen!</string>
+			<string name="betaCompleted1">Herzlichen Glückwunsch! Du hast die Open-Beta von Cubos erfolgreich abgeschlossen!</string>
+			<string name="betaCompleted2">Wir hoffen, dass es dir gefallen hat. Tippe auf den Stern, um das Spiel zu bewerten!</string>
+        </German>
+    </languages>

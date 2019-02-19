@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2bb796376bc9ad341a515c8976d1f09e
+timeCreated: 1498307049
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aleo
+  fontNames:
+  - Aleo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70d55f85a1a13f24092e96389854479a, type: 3}
+  - {fileID: 12800000, guid: d84c8e1dd222d364a910683413f9372e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

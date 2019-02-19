@@ -1,0 +1,33 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b7d07aa2ae3caf415b29461271793032:2d46a1f2a6181f4b2192d9c8e8da520f:b476a0b765120c4618d8e49c5863b5b3$
+#
+:format=40300
+:texture=sprites.png
+:size=2048x2048
+:pivotpoints=disabled
+:borders=enabled
+
+Buttons/arrow;259;135;256;256; 0.5;0.5; 0;0;0;0
+Buttons/BackButton2;1556;1167;256;256; 0.5;0.5; 0;0;0;0
+Buttons/Button_3;1862;1469;64;64; 0.5;0.5; 16;16;16;16
+Buttons/CancelButton;1556;909;256;256; 0.5;0.5; 0;0;0;0
+Buttons/LevelButton2;1556;651;256;256; 0.5;0.5; 0;0;0;0
+Buttons/LevelCompleted;1;393;256;256; 0.5;0.5; 0;0;0;0
+Buttons/Lock;1;135;256;256; 0.5;0.5; 0;0;0;0
+Buttons/OptionsButton;259;393;256;256; 0.5;0.5; 0;0;0;0
+Buttons/pauseButton;517;393;256;256; 0.5;0.5; 0;0;0;0
+Buttons/restartButton;517;135;256;256; 0.5;0.5; 0;0;0;0
+Flags/england;786;773;768;504; 0.5;0.5; 0;0;0;0
+Flags/germany;1;762;768;504; 0.5;0.5; 0;0;0;0
+Logo/CubosLogo;1556;1425;304;108; 0.5;0.5; 0;0;0;0
+Powerups/rotate;775;393;256;256; 0.5;0.5; 0;0;0;0
+Powerups/switch;775;135;256;256; 0.5;0.5; 0;0;0;0
+Powerups/switchRow;1033;515;256;256; 0.5;0.5; 0;0;0;0
+SocialMedia/domain-registration(1);1556;1535;480;512; 0.5;0.5; 0;0;0;0
+SocialMedia/instagram;786;1279;768;768; 0.5;0.5; 0;0;0;0
+SocialMedia/twitter;1;1268;783;779; 0.5019157088122606;0.5019255455712452; 0;0;0;0

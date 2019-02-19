@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "LineRightDown">
+	<Stroke>
+		<Point X = "135" Y = "-1579" T = "0" Pressure = "0" />
+		<Point X = "135" Y = "-1579" T = "0" Pressure = "0" />
+		<Point X = "135" Y = "-1579" T = "0" Pressure = "0" />
+		<Point X = "149" Y = "-1565" T = "0" Pressure = "0" />
+		<Point X = "182" Y = "-1521" T = "0" Pressure = "0" />
+		<Point X = "223" Y = "-1466" T = "0" Pressure = "0" />
+		<Point X = "277" Y = "-1404" T = "0" Pressure = "0" />
+		<Point X = "336" Y = "-1338" T = "0" Pressure = "0" />
+		<Point X = "398" Y = "-1269" T = "0" Pressure = "0" />
+		<Point X = "438" Y = "-1225" T = "0" Pressure = "0" />
+		<Point X = "457" Y = "-1195" T = "0" Pressure = "0" />
+		<Point X = "468" Y = "-1184" T = "0" Pressure = "0" />
+		<Point X = "468" Y = "-1184" T = "0" Pressure = "0" />
+		<Point X = "468" Y = "-1184" T = "0" Pressure = "0" />
+		<Point X = "468" Y = "-1184" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>
